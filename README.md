@@ -11,7 +11,7 @@ XGBoost, Extreme Gradient Boosting, which is a scalable distributed gradient boo
 Azure, Microsofts public cloud platform that provided the hosting of our data and programs. It also supplemented the compute power to efficiently run our models. 
 
 <p align="center">
-    <img src="images/plot_predictions.png" width="800">
+    <img src="images/plot_predict_with_label.png" width="800">
     <img src="images/feature_importance.png" width="800">
     <img src="images/feature_importance_xgboost.png" width="800">
 </p>
